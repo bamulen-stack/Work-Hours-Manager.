@@ -1,0 +1,1 @@
+Work Hours Manager standalone PWA. Upload all 4 web files (index.html, sw.js, manifest.webmanifest, icon.svg) to a NEW GitHub Pages repo or Netlify site. Each browser/device stores separate data in localStorage. Use Backup/Restore for migration. No automatic migration from Airbnb Repairs Manager. PDF saved directly without print dialog.
